@@ -1,2 +1,2 @@
 # Basic-Banking-System
-A basic banking system website using html css js.
+A website for NGO including payment gateway using html css js.
